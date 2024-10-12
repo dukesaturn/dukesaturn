@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various p
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [your.email@example.com](mailto:info@dksengine.it)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/domenico-antonuccio-bb7913332/)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dukesaturn&show_icons=true&theme=radical)
