@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer interested in various projects, and I love working on open-source projects.
 
 ### 🔭 Current Projects
-- [Project 1](https://github.com/username/project1)
+- [Project 1](https://github.com/duke_saturn/dummy_test)
 - [Project 2](https://github.com/username/project2)
 
 ### 🌱 I’m currently learning
