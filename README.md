@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there! I'm Dks!
 
-<!--
-**dukesaturn/dukesaturn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer interested in various projects, and I love working on open-source projects.
 
-Here are some ideas to get you started:
+### 🔭 Current Projects
+- [Project 1](https://github.com/username/project1)
+- [Project 2](https://github.com/username/project2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- [Technology or Language]
+
+### 📫 How to reach me:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
