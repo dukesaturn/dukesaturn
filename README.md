@@ -35,4 +35,4 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various p
 - Email: [your.email@example.com](mailto:your.email@example.com)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?dukesaturn=yourusername&show_icons=true&theme=radical)
