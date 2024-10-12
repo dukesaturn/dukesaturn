@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various p
 
 ### 🔭 Current Projects
 - [Dummy Test](https://github.com/duke_saturn/dummy_test)
-- [Project 2](https://github.com/username/project2)
 
 ### 🌱 Languages
 ![C](https://img.shields.io/badge/C-blue)
