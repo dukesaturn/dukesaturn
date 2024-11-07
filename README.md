@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer interested in various projects, and I love working on open-source projects.
 
 ### 🔭 Current Projects
-- [Dummy ](https://github.com/duke_saturn/Dummy)
+- [Dummy ](https://github.com/dukesaturn/Dummy)
 
 ### 🌱 Languages
 ![C](https://img.shields.io/badge/C-blue)
