@@ -1,9 +1,9 @@
 # 👋 Hi there! I'm Dks!
 
-Welcome to my GitHub profile! I'm a passionate developer interested in various projects, and I love working on open-source projects.
+Welcome to my GitHub profile! I'm a **web developer** specializing in **web applications, automation scripts, and traditional apps**. I love working on open-source projects and building efficient, scalable solutions.
 
-### 🔭 Current Projects
-- [Dummy ](https://github.com/dukesaturn/Dummy)
+### 🌟 Current Projects
+- [Dummy](https://github.com/dukesaturn/Dummy)
 
 ### 🌱 Languages
 ![C](https://img.shields.io/badge/C-blue)
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various p
 ![PHP](https://img.shields.io/badge/PHP-blue)
 ![Python](https://img.shields.io/badge/Python-brightgreen)
 
-### Web Libraries
+### 🌐 Web Libraries & Frameworks
 ![jQuery](https://img.shields.io/badge/jQuery-blue)
 ![React](https://img.shields.io/badge/React-lightblue)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
@@ -20,18 +20,19 @@ Welcome to my GitHub profile! I'm a passionate developer interested in various p
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
 
-# Tools
+### ⚙️ Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1A9FD9?logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
 
-# Database
+### 📂 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-### 📫 How to reach me:
-- Email: [your.email@example.com](mailto:info@dksengine.it)
+
+### 💌 How to reach me:
+- Email: [info@dksengine.it](mailto:info@dksengine.it)
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/domenico-antonuccio-bb7913332/)
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dukesaturn&show_icons=true&theme=radical)
