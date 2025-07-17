@@ -1,66 +1,49 @@
-# 👋 Hi there! I'm Dks!
+# Dks
 
-Welcome to my GitHub profile! I'm a **web developer** specializing in **web applications, automation scripts, and traditional apps**. I love working on open-source projects and building efficient, scalable solutions. My expertise spans from frontend development to backend architecture, ensuring seamless and high-performance applications.
+I'm a full-stack software developer experienced in both high-level web technologies and low-level programming. I build robust, scalable, and efficient software tailored to business needs.
 
-## 🎬 About Me
-I am passionate about creating dynamic, interactive, and robust web applications. My work involves:
-- **Building scalable web applications** using modern frameworks.
-- **Developing automation scripts** to streamline workflows and improve efficiency.
-- **Creating traditional and enterprise apps** for businesses and individuals.
-- **Optimizing performance and security** to ensure a seamless user experience.
+**Website:** [www.yourwebsite.com](https://www.dksengine.com/)
 
-## 💻 Services I Offer
-### ✨ Web Development
-- Custom website and web application development
-- E-commerce solutions and payment integration
-- API development and third-party service integrations
+### Technologies
 
-### ⚙️ Automation & Scripting
-- Task automation with Python and JavaScript
-- Data scraping and processing
-- Workflow optimization with custom scripts
+### Technologies
 
-### 📊 Business & Enterprise Solutions
-- CRM and ERP development
-- Business process automation
-- SaaS application development
+**Programming Languages:**  
+[C/C++](https://github.com/topics/cpp), [PHP](https://github.com/topics/php), [Python](https://github.com/topics/python), [JavaScript](https://github.com/topics/javascript), [TypeScript](https://github.com/topics/typescript), [Go](https://github.com/topics/go)
 
-## 🌟 Current Projects
-- [Dummy](https://github.com/dukesaturn/Dummy) – A dynamic project showcasing my technical expertise.
+**Frontend Frameworks & UI Libraries:**  
+[React](https://github.com/topics/react), [Svelte](https://github.com/topics/svelte), [HTML5](https://github.com/topics/html5), [CSS3](https://github.com/topics/css3), [TailwindCSS](https://github.com/topics/tailwindcss), [Material UI](https://github.com/topics/material-ui), [Bootstrap](https://github.com/topics/bootstrap), [Vue](https://github.com/topics/vue), [Shadcn](https://github.com/topics/shadcn-ui)
 
-## 🌱 Languages
-![C](https://img.shields.io/badge/C-blue)
-![C++](https://img.shields.io/badge/C%2B%2B-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![PHP](https://img.shields.io/badge/PHP-blue)
-![Python](https://img.shields.io/badge/Python-brightgreen)
+**Backend & Fullstack Frameworks:**  
+[Laravel](https://github.com/topics/laravel), [Node.js](https://github.com/topics/nodejs), [Next.js](https://github.com/topics/nextjs), [Strapi](https://github.com/topics/strapi), [Gin](https://github.com/topics/gin), [Flask](https://github.com/topics/flask)
 
-## 🌐 Web Libraries & Frameworks
-![jQuery](https://img.shields.io/badge/jQuery-blue)
-![React](https://img.shields.io/badge/React-lightblue)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-blue?logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?logo=bootstrap&logoColor=white)
+**Databases & Data Tools:**  
+[PostgreSQL](https://github.com/topics/postgresql), [MySQL](https://github.com/topics/mysql), [SQLite](https://github.com/topics/sqlite), [Redis](https://github.com/topics/redis), [NumPy](https://github.com/topics/numpy)
 
-## ⚙️ Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-1A9FD9?logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=white)
+**Cloud Platforms & Services:**  
+[AWS](https://github.com/topics/aws), [Oracle Cloud](https://github.com/topics/oracle-cloud)
 
-## 📂 Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+**APIs & Integrations:**  
+[Google APIs](https://github.com/topics/google-api)
 
-## 💌 How to reach me:
-If you’re looking for a reliable developer to bring your project to life, let’s connect!
-- Email: [info@dksengine.it](mailto:info@dksengine.it)
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/domenico-antonuccio-bb7913332/)
-- Website: [www.dksengine.it](https://www.dksengine.it)
+**DevOps & Platforms:**  
+[Docker](https://github.com/topics/docker), [Linux](https://github.com/topics/linux), [GitHub](https://github.com/topics/github)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dukesaturn&show_icons=true&theme=radical)
+**Others:**  
+[WordPress](https://github.com/topics/wordpress), [Electron](https://github.com/topics/electron), [OpenCV](https://github.com/topics/opencv)
 
 
-Looking forward to collaborating on amazing projects! 🚀
+
+### Services
+
+- **Web Application Development**  
+  Custom web solutions tailored to your business needs.
+
+- **Process Automation**  
+  Efficient and reliable solutions to automate tasks and workflows.
+
+- **Low-Level Programming**  
+  Performance-focused and optimized development for specialized systems.
+
+- **Desktop Applications**  
+  Development of reliable and efficient desktop software.
