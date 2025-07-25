@@ -7,6 +7,7 @@ I'm a full-stack software developer experienced in both high-level web technolog
 ### Technologies
 
 **Programming Languages:**  
+![C](https://img.shields.io/badge/C-00599C?logo=c%2b%2b&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
