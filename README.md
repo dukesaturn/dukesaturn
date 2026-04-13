@@ -1,10 +1,11 @@
 # Dks
-
 > [!IMPORTANT]
 > After April 24, GitHub will start using Copilot interaction data for AI model training.
 > 
 > As a result, I’m moving to my own Forgejo instance:
 > https://git.dksengine.com/dks/
+>
+> I’ll use https://codeberg.org/dksengine as a mirror.
 
 I'm a full-stack software developer experienced in both high-level web technologies and low-level programming. I build robust, scalable, and efficient software tailored to business needs.
 
