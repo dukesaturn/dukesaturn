@@ -1,5 +1,11 @@
 # Dks
 
+> [!IMPORTANT]
+> After April 24, GitHub will start using Copilot interaction data for AI model training unless you opt out.
+> 
+> As a result, I’m moving to my own Forgejo instance:
+> https://git.dksengine.com/dks/
+
 I'm a full-stack software developer experienced in both high-level web technologies and low-level programming. I build robust, scalable, and efficient software tailored to business needs.
 
 **Website:** https://dksengine.com/
@@ -13,7 +19,6 @@ I'm a full-stack software developer experienced in both high-level web technolog
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 
 **Frontend Frameworks & UI Libraries:**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)  
