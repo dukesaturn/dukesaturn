@@ -1,7 +1,7 @@
 # Dks
 
 > [!IMPORTANT]
-> After April 24, GitHub will start using Copilot interaction data for AI model training unless you opt out.
+> After April 24, GitHub will start using Copilot interaction data for AI model training.
 > 
 > As a result, I’m moving to my own Forgejo instance:
 > https://git.dksengine.com/dks/
